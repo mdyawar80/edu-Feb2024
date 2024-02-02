@@ -1,5 +1,5 @@
 a=6
 b=5
-
-sum = a+b
+c=1
+sum = a+b+c
 print sum
